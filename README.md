@@ -156,7 +156,7 @@ Maintain: Stable Mid Value Customers (38.5K) represent a large, stable base with
 
 > **Data size note:** Source datasets exceed GitHub file limits. Key prepared files and final outputs are available via Google Drive.
 >
-> [Download project files from Google Drive](https://drive.google.com/file/d/1tBwlvX_N_K7dNHm02v1ammVfMMvE4VVA/view?usp=sharing)
+> [Download project files from Google Drive](https://drive.google.com/drive/folders/126mlE9SaTlVNDaQPcR5IXK9j_PoN6O2q?usp=drive_link)
 
 ---
 
