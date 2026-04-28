@@ -157,6 +157,12 @@ Maintain: Stable Mid Value Customers (38.5K) represent a large, stable base with
 > **Data size note:** Source datasets exceed GitHub file limits. Key prepared files and final outputs are available via Google Drive.
 >
 > [Download project files from Google Drive](https://drive.google.com/drive/folders/126mlE9SaTlVNDaQPcR5IXK9j_PoN6O2q?usp=drive_link)
+>
+> 
+> [View live interactive dashboard on Power BI Service](https://app.powerbi.com/links/HcLLvNLjq6?ctid=64d7125b-3f16-40ce-b3fe-2f79216f7403&pbi_source=linkShare)
+>
+> 
+> [Download the .pbix File from Google Drive](https://drive.google.com/file/d/1XrgxcVgy7i_58-F7BytnylFyb4pXjkrb/view?usp=sharing)
 
 ---
 
