@@ -201,6 +201,7 @@ A demographic view of how age, income, household type, and region interact with 
 
 ![Dashboard Page 1](./[04]%20Analysis%20%26%20Visualizations/[3]%20Power%20BI%20Dashboard/dashboard_page1_segmentation_overview.png)
 
+![Dashboard Page 1](./[04]%20Analysis%20%26%20Visualizations/[3]%20Power%20BI%20Dashboard/dashboard_filters_view.png)
 ---
 
 ## Key Findings
