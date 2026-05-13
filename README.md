@@ -176,7 +176,6 @@ Maintain: Stable Mid Value Customers (38.5K) represent a large, stable base with
 
 ## About
 
-Built by **Elia Lanz**, a freelance data analyst specialising in [custom dashboards for multi location operators](https://www.elialanz.com/dashboard-service/), retail, transport, booking-based services, and e-commerce.
+Built by **Elia Lanz**, a freelance data analyst specialising in [custom dashboards for multi location operators](https://www.elialanz.com/dashboard-service/), retail, transport, booking-based services, e-commerce, and operational visibility work for SME operators.
 
 [See how I work with clients →](https://www.elialanz.com/dashboard-service/) · [Other data services I offer →](https://www.elialanz.com/hire-me/) · [elialanz.com](https://www.elialanz.com)
-
